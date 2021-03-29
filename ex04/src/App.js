@@ -1,13 +1,13 @@
 import logo from './logo.svg';
+import Box from './Box';
 import './App.css';
-import Plant from './Plant';
-
 function App() {
   return (
     <div className="App">
-      <Plant />
+      <Box />
     </div>
   );
 }
-
 export default App;
+
+
